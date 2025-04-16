@@ -1,7 +1,7 @@
 function Main() {
 
   return (
-    <p> Here is a homepage
+    <p> Caterpillar headquarters
     </p>
   )
 }
